@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("Hello, World!");const o=[1,2,3,4],l=o.map((o=>o+1)),e=o.reduce(((o,l)=>o+l),0);console.log(o),console.log(l),console.log(e)})();
